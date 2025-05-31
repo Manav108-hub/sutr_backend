@@ -1,0 +1,5 @@
+::1 - - [31/May/2025:20:15:50 +0000] "POST /api/auth/register HTTP/1.1" 201 57 "-" "insomnia/11.1.0"
+::1 - - [31/May/2025:20:15:55 +0000] "POST /api/auth/login HTTP/1.1" 200 325 "-" "insomnia/11.1.0"
+::1 - - [31/May/2025:20:17:31 +0000] "POST /api/category HTTP/1.1" 400 58 "-" "insomnia/11.1.0"
+::1 - - [31/May/2025:20:17:42 +0000] "POST /api/category HTTP/1.1" 201 480 "-" "insomnia/11.1.0"
+::1 - - [31/May/2025:20:17:54 +0000] "GET /api/categories HTTP/1.1" 200 880 "-" "insomnia/11.1.0"
